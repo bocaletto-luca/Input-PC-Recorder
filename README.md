@@ -7,6 +7,8 @@
 
 Input PC Recorder is a simple Python application for recording audio from your PC's input devices. It provides a user-friendly interface to select input devices, bit depth, and sample rate, and allows you to start and stop audio recordings.
 
+![Screenshot 2023-10-13 064242](https://github.com/elektronoide/Input-PC-Recorder/assets/134635227/98cb4bed-0fd4-4d23-abd9-f50903023535)
+
 ## Features
 
 - Select input audio device.
@@ -62,6 +64,8 @@ Special thanks to the open-source community for their contributions.
 ## Panoramica
 
 Input PC Recorder è una semplice applicazione Python per registrare l'audio dai dispositivi di input del tuo PC. Fornisce un'interfaccia utente intuitiva per selezionare dispositivi di input, profondità in bit e frequenza di campionamento, e consente di avviare e interrompere le registrazioni audio.
+
+![Screenshot 2023-10-13 063648](https://github.com/elektronoide/Input-PC-Recorder/assets/134635227/085051f5-4400-45d4-b80c-8daf0b09a40d)
 
 ## Caratteristiche
 
