@@ -1,6 +1,5 @@
 # Software Name: Input PC Recorder
 # Author: Luca Bocaletto
-# Website: https://www.elektronoide.it
 # License: GPLv3
 import sys
 import numpy as np
