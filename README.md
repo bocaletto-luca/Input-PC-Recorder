@@ -1,7 +1,8 @@
-# Software Name: Input PC Recorder
-# Author: Bocaletto Luca
-# Site Web: https://www.elektronoide.it
-# License: GPLv3
+# Input PC Recorder
+
+**Author:** Bocaletto Luca
+
+**Language:** Python
 
 ## Overview
 
