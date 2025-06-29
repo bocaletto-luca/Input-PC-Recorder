@@ -57,56 +57,10 @@ This project makes use of the following Python libraries:
 
 Special thanks to the open-source community for their contributions.
 
-# Nome del Software: Input PC Recorder
-# Autore: Bocaletto Luca
-# Sito Web: [elektronoide.it](https://www.elektronoide.it)
-# Licenza: GPLv3
+---
 
-## Panoramica
+**Maintainer Update**
 
-Input PC Recorder è una semplice applicazione Python per registrare l'audio dai dispositivi di input del tuo PC. Fornisce un'interfaccia utente intuitiva per selezionare dispositivi di input, profondità in bit e frequenza di campionamento, e consente di avviare e interrompere le registrazioni audio.
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
 
-![Screenshot 2023-10-13 063648](https://github.com/elektronoide/Input-PC-Recorder/assets/134635227/085051f5-4400-45d4-b80c-8daf0b09a40d)
-
-## Caratteristiche
-
-- Seleziona il dispositivo audio di input.
-- Scegli la profondità in bit (8-bit, 16-bit, 24-bit) e la frequenza di campionamento (44100 Hz, 48000 Hz, 96000 Hz, 192000 Hz).
-- Avvia e interrompi la registrazione audio.
-- Monitora l'intensità della registrazione in tempo reale.
-- Salva l'audio registrato in un file WAV.
-
-## Installazione
-
-1. Clona o scarica questa repository sul tuo computer locale.
-2. Installa i pacchetti Python necessari utilizzando pip:
-
-   ```bash
-   pip install sounddevice soundfile PyQt5 numpy
-
-## Uso
-
-1. Avvia l'applicazione.
-2. Seleziona il dispositivo di input desiderato dal menu a tendina.
-3. Scegli la profondità in bit e la frequenza di campionamento.
-4. Fai clic sul pulsante "Avvia Registrazione" per iniziare la registrazione audio.
-5. Fai clic sul pulsante "Interrompi Registrazione" per interrompere la registrazione e salvare l'audio in un file WAV.
-6. L'intensità della registrazione viene visualizzata in tempo reale.
-
-## Licenza
-
-Questo progetto è distribuito con la Licenza GPLv3. Consulta il file [LICENSE](LICENSE) per ulteriori dettagli.
-
-## Supporto
-
-Per supporto o domande, visita [elektronoide.it](https://www.elektronoide.it).
-
-## Riconoscimenti
-
-Questo progetto fa uso delle seguenti librerie Python:
-
-- [sounddevice](https://python-sounddevice.readthedocs.io/en/1.0.3/)
-- [soundfile](https://pysoundfile.readthedocs.io/en/0.10.3/)
-- [PyQt5](https://www.riverbankcomputing.com/static/Docs/PyQt5/)
-
-Un ringraziamento speciale alla comunità open source per i loro contributi.
+---
